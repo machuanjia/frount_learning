@@ -66,3 +66,7 @@ https://www.bilibili.com/video/BV1F54y1t7Dx/?spm_id_from=333.337.search-card.all
 ## 服务端渲染 Nextjs
 
 https://www.bilibili.com/video/BV1F7411R7cN?p=15&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
+
+## 缓存
+
+https://www.bilibili.com/video/BV1xG4y147G9/?spm_id_from=333.788&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
