@@ -16,6 +16,8 @@ https://www.bilibili.com/video/BV12h411z7d5?p=25&vd_source=8998db0a932b6ea1dd0cf
 
 https://www.bilibili.com/video/BV1jy4y1S7fy/?spm_id_from=333.337.search-card.all.click&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
 
+https://www.bilibili.com/video/BV1Wo4y1n7yy/?spm_id_from=333.337.search-card.all.click&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
+
 ## 前端性能优化
 
 https://www.bilibili.com/video/BV1TY411S7Xt/?p=8&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
@@ -56,3 +58,11 @@ https://www.bilibili.com/video/BV1UL4y1h7W9/?p=28&vd_source=8998db0a932b6ea1dd0c
 ## 珠峰
 
 https://search.bilibili.com/all?vt=98269337&keyword=%E7%8F%A0%E5%B3%B0%E5%89%8D%E7%AB%AF&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+## http https ssl
+
+https://www.bilibili.com/video/BV1F54y1t7Dx/?spm_id_from=333.337.search-card.all.click
+
+## 服务端渲染 Nextjs
+
+https://www.bilibili.com/video/BV1F7411R7cN?p=15&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
