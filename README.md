@@ -18,6 +18,8 @@ https://www.bilibili.com/video/BV1jy4y1S7fy/?spm_id_from=333.337.search-card.all
 
 https://www.bilibili.com/video/BV1Wo4y1n7yy/?spm_id_from=333.337.search-card.all.click&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
 
+https://www.bilibili.com/video/BV1By4y177gX?p=7&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
+
 ## 前端性能优化
 
 https://www.bilibili.com/video/BV1TY411S7Xt/?p=8&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
@@ -70,3 +72,41 @@ https://www.bilibili.com/video/BV1F7411R7cN?p=15&vd_source=8998db0a932b6ea1dd0cf
 ## 缓存
 
 https://www.bilibili.com/video/BV1xG4y147G9/?spm_id_from=333.788&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
+
+## WEBGL
+
+https://www.bilibili.com/video/BV1LB4y197Ew/?spm_id_from=333.337.search-card.all.click&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
+
+## 防抖截流
+
+http://hz.itheima.com/news/20230313/110747.html
+
+## 深拷贝、浅拷贝(类型检测 Array.isArray, 循环引用使用Weakmap)
+
+https://blog.csdn.net/qq_45272642/article/details/124840331
+https://juejin.cn/post/6933168401200185351
+
+## 洗牌算法
+```
+const array = [1,2,3,4]
+const copy = []
+while(array.length > 0 ){
+        const random = Math.floor(Math.random()*array.length)
+	copy.push(array[random])	
+       array.splice(random,1)
+} console.log(copy)
+```
+
+## [1,2,3,5,6,7] 取 和为8的数组
+
+```
+const out = []
+const  array = [1,2,3,5,6,7]
+for(let i = 0; i<  array.length; i++){
+	for(let j = i; j<  array.length; j++){
+		if(array[i] + array[j] === 8){
+  			out.push([array[i],array[j]])
+                }
+	}
+}
+```
