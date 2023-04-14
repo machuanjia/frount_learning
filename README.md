@@ -110,3 +110,38 @@ for(let i = 0; i<  array.length; i++){
 	}
 }
 ```
+
+## 输入url过程
+
+https://juejin.cn/post/6844904155077672968#heading-3
+
+## Get 和 Post区别 
+
+https://blog.fundebug.com/2019/02/22/compare-http-method-get-and-post/
+
+
+## https加密
+
+https://segmentfault.com/a/1190000019976390
+
+## http2
+
+https://zhuanlan.zhihu.com/p/26559480
+
+## 缓存
+
+https://juejin.cn/post/6844903764566999054
+
+## CORS
+
+https://www.ruanyifeng.com/blog/2016/04/cors.html
+
+## 单页应用和多页应用
+
+https://juejin.cn/post/6844903512107663368
+
+## 路由原理
+
+https://segmentfault.com/a/1190000023509417
+
+
