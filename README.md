@@ -20,6 +20,8 @@ https://www.bilibili.com/video/BV1Wo4y1n7yy/?spm_id_from=333.337.search-card.all
 
 https://www.bilibili.com/video/BV1By4y177gX?p=7&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
 
+https://www.bilibili.com/video/BV1pM411r7Hf/?spm_id_from=333.788&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
+
 ## 前端性能优化
 
 https://www.bilibili.com/video/BV1TY411S7Xt/?p=8&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
@@ -144,4 +146,12 @@ https://juejin.cn/post/6844903512107663368
 
 https://segmentfault.com/a/1190000023509417
 
+
+## xss
+
+https://blog.csdn.net/cheng521521/article/details/127423588
+
+## mysql
+
+https://www.bilibili.com/video/BV1qo4y1y73h?p=1&vd_source=8998db0a932b6ea1dd0cf87debb8cad4
 

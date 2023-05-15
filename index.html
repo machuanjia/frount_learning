@@ -1,0 +1,12 @@
+<script>
+ function namespace(oNamespace, sPackage) {
+    sPackage.split('.').reduce((prev, curr) => {
+        debugger
+        prev[curr] = Object.assign({}, prev[curr]);
+        return prev[curr];
+    }, oNamespace)
+    return oNamespace;
+}
+var a = {}; 
+var r = namespace(a, 'a.b.c.d.e.f.g');
+</script>
